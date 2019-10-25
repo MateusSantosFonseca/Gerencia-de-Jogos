@@ -1,0 +1,2 @@
+C:\Users\Mateus Fonseca\Desktop\GerenciaGames\obj\x86\Debug\teste.csprojAssemblyReference.cache
+C:\Users\Mateus Fonseca\Desktop\GerenciaGames\obj\x86\Debug\teste.csproj.CoreCompileInputs.cache

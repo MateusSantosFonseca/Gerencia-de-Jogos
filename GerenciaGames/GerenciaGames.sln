@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GerenciaGames", ".", "{0358CA0D-441A-4720-87C0-FA367F337277}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53749"
+		Debug.AspNetCompiler.PhysicalPath = "..\GerenciaGames\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53749\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53749"
+		Release.AspNetCompiler.PhysicalPath = "..\GerenciaGames\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53749\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53749"
+		SlnRelativePath = "..\GerenciaGames\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0358CA0D-441A-4720-87C0-FA367F337277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0358CA0D-441A-4720-87C0-FA367F337277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C317572D-BD13-4B7C-A815-E8A7FE574678}
+	EndGlobalSection
+EndGlobal

@@ -1,8 +1,11 @@
-# Gerência de jogos
+### Gerência de jogos
 Projeto criado para treinar as teorias aprendidas em cursos de ASP .NET Framework, utilizando WebForms.
 
-## O site criado possui as seguintes funcionalidades em caso de uso:
-## Requisitos Funcionais:
+### Como rodar
+Após clonar o projeto, dentro da solução na IDE, deve-se selecionar o WebForm.aspx como a página de inicialização (o WebForm.aspx é a página principal do projeto).
+
+### O site criado possui as seguintes funcionalidades, no modelo de casos de uso:
+### Requisitos Funcionais:
 
 ##### O sistema deve possibilitar ao usuário cadastrar um jogo.
 ##### O sistema deve possibilitar ao usuário listar todos os jogos cadastrados.
@@ -11,9 +14,10 @@ Projeto criado para treinar as teorias aprendidas em cursos de ASP .NET Framewor
 ##### O sistema deve possibilitar ao usuário excluir todos jogos de uma só vez.
 ##### O sistema deve possibilitar ao usuário a inserção de um arquivo texto com jogos pré-cadastrados.
 
-## Requisitos não funcionais:
+### Requisitos não funcionais:
 
 ##### O sistema deve ser desenvolvido em C#, utilizando a tecnologia ASP .NET Framework
 ##### O sistema deve usar arquivo .txt para persistência de dados.
+
 
 #### Observações: Um jogo cadastrado no sistema é composto por seu título, uma URL que contenha a imagem de sua capa e sua sinopse.
